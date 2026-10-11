@@ -1,0 +1,20 @@
+# never commit data, results or manuscripts
+cache/
+results/
+figures/
+manuscript*/
+data/
+*.pkl
+*.csv
+!data_prep/nova_classification.csv
+*.tsv
+*.gz
+*.tar
+*.xlsx
+*.docx
+*.pdf
+*.png
+*.tiff
+*.svg
+__pycache__/
+.DS_Store

@@ -1,0 +1,229 @@
+UKB field,Item,NOVA group,Rationale,Uncertain,Source,Comparison with Rauber et al. 2021
+100150,Drinking water,1,No energy,,Oxford WebQ item,
+100160,Low calorie drink,4,Soft drink with sweeteners,,Oxford WebQ item,
+100170,Fizzy drink,4,Soft drink (listed as a UPF example by Rauber et al.),,Oxford WebQ item,
+100180,Squash,4,"Contains sugar or sweeteners, colours and flavourings",,Oxford WebQ item,
+100190,Orange juice,1,100% fruit juice,,Oxford WebQ item,
+100200,Grapefruit juice,1,100% fruit juice,,Oxford WebQ item,
+100210,Pure fruit/vegetable juice,1,100% fruit juice,,Oxford WebQ item,
+100220,Fruit smoothie,1,Mostly whole fruit; some commercial products contain additives,Yes,Oxford WebQ item,Consistent: fruit juice classified as NOVA 1
+100230,Dairy smoothie,4,Flavoured milk drink,Yes,Oxford WebQ item,Consistent: milk-based drinks classified as UPF
+100250,Instant coffee,1,Negligible energy; classification debated,Yes,Oxford WebQ item,Consistent: coffee classified as NOVA 1
+100260,Added milk to instant coffee,1,Milk,,Oxford WebQ item,
+100270,Filtered coffee,1,,,Oxford WebQ item,
+100280,Added milk to filtered coffee,1,Milk,,Oxford WebQ item,
+100290,Cappuccino,4,Coffee and milk,,Oxford WebQ item,Changed from NOVA 1 to NOVA 4; Rauber 2021: coffee drinks classified as UPF
+100300,Latte,4,Coffee and milk,,Oxford WebQ item,Changed from NOVA 1 to NOVA 4; Rauber 2021: coffee drinks classified as UPF
+100310,Espresso,1,,,Oxford WebQ item,
+100320,Added milk to espresso,1,Milk,,Oxford WebQ item,
+100330,Other coffee type,4,,Yes,Oxford WebQ item,Changed from NOVA 1 to NOVA 4; Rauber 2021: coffee drinks classified as UPF
+100350,Added milk to other coffee,1,Milk,,Oxford WebQ item,
+100370,Sugar added to coffee,2,Processed culinary ingredient (sugar),,Oxford WebQ item,
+100380,Artificial sweetener added to coffee,4,Sweetener; energy ≈ 0,,Oxford WebQ item,
+100400,Standard tea,1,,,Oxford WebQ item,
+100410,Rooibos tea,1,,,Oxford WebQ item,
+100420,Green tea,1,,,Oxford WebQ item,
+100430,Herbal tea,1,,,Oxford WebQ item,
+100440,Other tea,1,,,Oxford WebQ item,
+100460,Added milk to standard tea,1,Milk,,Oxford WebQ item,
+100480,Added milk to rooibos tea,1,Milk,,Oxford WebQ item,
+100490,Sugar added to tea,2,Processed culinary ingredient (sugar),,Oxford WebQ item,
+100500,Artificial sweetener added to tea,4,Sweetener; energy ≈ 0,,Oxford WebQ item,
+100520,Milk,1,Plant-based milks counted separately through food groups 26124/26136,,Oxford WebQ item,
+100530,Flavoured milk,4,Added sugar and flavourings,,Oxford WebQ item,
+100540,Low calorie hot chocolate,4,Instant powder,,Oxford WebQ item,
+100550,Hot chocolate,4,Instant powder,,Oxford WebQ item,
+100560,Other drink,4,Mostly soft drinks or energy drinks,Yes,Oxford WebQ item,Consistent: other beverages classified as UPF
+100590,Red wine,3,Fermented alcoholic beverage,,Oxford WebQ item,
+100630,Rose wine,3,Fermented alcoholic beverage,,Oxford WebQ item,
+100670,White wine,3,Fermented alcoholic beverage,,Oxford WebQ item,
+100710,Beer/cider,3,Fermented alcoholic beverage,,Oxford WebQ item,
+100720,Fortified wine,3,"Sherry, port, etc.",Yes,Oxford WebQ item,Consistent: beer and wine classified as NOVA 3
+100730,Spirits,4,Distilled spirits (NOVA 4),,Oxford WebQ item,
+100740,Other alcohol,4,Mainly liqueurs and pre-mixed drinks,Yes,Oxford WebQ item,Consistent: alcoholic drink classified as UPF
+100770,Porridge,1,Oats,,Oxford WebQ item,
+100800,Muesli,1,Less processed group chosen; some products contain added sugar,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+100810,Oat crunch,4,Rauber et al.: sweetened oat crunch is UPF,,Oxford WebQ item,Consistent: oat crunch classified as UPF
+100820,Sweetened cereal,4,Rauber et al.: sweetened cereals are UPF,,Oxford WebQ item,Consistent: sweetened cereal classified as UPF
+100830,Plain cereal,4,"Cornflakes contain sugar, salt and malt flavouring",Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+100840,Bran cereal,4,Bran cereals contain sugar and malt extract,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+100850,Whole-wheat cereal,3,"Whole wheat, sugar and salt with few additives",Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+100860,Other cereal,4,,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+100880,Dried fruit added to cereal,1,,,Oxford WebQ item,
+100890,Milk added to cereal,1,Milk,,Oxford WebQ item,
+100900,Sugar added to cereal,2,Processed culinary ingredient (sugar),,Oxford WebQ item,
+100910,Artificial sweetener added to cereal,4,Energy ≈ 0,,Oxford WebQ item,
+100950,Sliced bread,4,Rauber et al.: packaged bread is UPF,,Oxford WebQ item,
+101020,Baguette,3,Baguettes are not in Rauber et al.'s list of UPF breads,Yes,Oxford WebQ item,Consistent: simple/processed bread classified as NOVA 3
+101090,Bap,4,Listed as UPF by Rauber et al.,,Oxford WebQ item,
+101160,Bread roll,4,Listed as UPF by Rauber et al.,,Oxford WebQ item,
+101230,Naan bread,4,Packaged naan contains additives,Yes,Oxford WebQ item,Consistent: packaged breads classified as UPF
+101240,Garlic bread,4,,,Oxford WebQ item,
+101250,Crispbread,3,Rye and salt,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+101260,Oatcakes,3,,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+101270,Other bread,4,Mainly packaged bread,Yes,Oxford WebQ item,Consistent: packaged breads classified as UPF
+101970,Double crust pastry,4,Ready-made pies,,Oxford WebQ item,
+101980,Single crust pastry,4,Ready-made pies,Yes,Oxford WebQ item,Consistent: pastries classified as UPF
+101990,Crumble,3,Mostly home-made,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+102000,Pizza,4,,,Oxford WebQ item,
+102010,Pancake,3,Mostly home-made,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+102020,Scotch pancake,4,Packaged products,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+102030,Yorkshire pudding,3,Home-made and frozen ready-made forms both common; less processed group chosen,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+102040,Indian snacks,4,Ready-made,,Oxford WebQ item,
+102050,Croissant,4,,,Oxford WebQ item,
+102060,Danish pastry,4,,,Oxford WebQ item,
+102070,Scone,4,Mainly packaged products,Yes,Oxford WebQ item,"Consistent: pastries, buns and cakes classified as UPF"
+102090,Yogurt,1,Flavoured or fruit yoghurts predominate in the UK; plain yoghurt is NOVA 1,Yes,Oxford WebQ item,Changed from NOVA 4 to NOVA 1; Rauber 2021 Table S2: Milk and plain yoghurt classified as NOVA 1 (less processed group chosen when both forms are common)
+102120,Ice-cream,4,,,Oxford WebQ item,
+102140,Milk-based pudding,4,Mainly canned or instant powder,Yes,Oxford WebQ item,Consistent: industrial desserts classified as UPF
+102150,Other milk-based pudding,4,,Yes,Oxford WebQ item,Consistent: industrial desserts classified as UPF
+102170,Soya dessert,4,,,Oxford WebQ item,
+102180,Fruitcake,4,,,Oxford WebQ item,
+102190,Cake,4,,,Oxford WebQ item,
+102200,Doughnut,4,,,Oxford WebQ item,
+102210,Sponge pudding,4,,,Oxford WebQ item,
+102220,Cheesecake,4,,,Oxford WebQ item,
+102230,Other dessert,4,,Yes,Oxford WebQ item,Consistent: industrial desserts classified as UPF
+102260,Chocolate bar,4,,,Oxford WebQ item,
+102270,White chocolate,4,,,Oxford WebQ item,
+102280,Milk chocolate,4,,,Oxford WebQ item,
+102290,Dark chocolate,4,Usually contains emulsifiers; sometimes classified as NOVA 3,Yes,Oxford WebQ item,Consistent: confectionary classified as UPF
+102300,Chocolate-covered raisin,4,,,Oxford WebQ item,
+102310,Chocolate sweet,4,,,Oxford WebQ item,
+102320,Diet sweets,4,,,Oxford WebQ item,
+102330,Sweets,4,,,Oxford WebQ item,
+102340,Chocolate-covered biscuits,4,,,Oxford WebQ item,
+102350,Chocolate biscuits,4,,,Oxford WebQ item,
+102360,Sweet biscuits,4,,,Oxford WebQ item,
+102370,Cereal bar,4,,,Oxford WebQ item,
+102380,Other sweets,4,,,Oxford WebQ item,
+102410,Salted peanuts,3,Salted nuts,,Oxford WebQ item,
+102420,Unsalted peanuts,1,,,Oxford WebQ item,
+102430,Salted nuts,3,Salted nuts,,Oxford WebQ item,
+102440,Unsalted nuts,1,,,Oxford WebQ item,
+102450,Seeds,1,,,Oxford WebQ item,
+102460,Crisps,4,,,Oxford WebQ item,
+102470,Savoury biscuits,4,,,Oxford WebQ item,
+102480,Cheesy biscuits,4,,,Oxford WebQ item,
+102490,Olives,3,Salted or pickled,,Oxford WebQ item,
+102500,Other savoury snack,4,,,Oxford WebQ item,
+102530,Powdered/instant soup,4,,,Oxford WebQ item,
+102540,Canned soup,4,,Yes,Oxford WebQ item,Consistent: packaged pre-prepared meals classified as UPF
+102620,Homemade soup,1,Home-made; classified by ingredients,,Oxford WebQ item,
+102710,White pasta,1,Dried pasta = flour and water,,Oxford WebQ item,
+102720,Wholemeal pasta,1,,,Oxford WebQ item,
+102730,White rice,1,,,Oxford WebQ item,
+102740,Brown rice,1,,,Oxford WebQ item,
+102750,Sushi,4,Mainly supermarket ready-made products,Yes,Oxford WebQ item,Consistent: packaged pre-prepared meals classified as UPF
+102760,Snackpot,4,,,Oxford WebQ item,
+102770,Couscous,1,,,Oxford WebQ item,
+102780,Other grain,1,,,Oxford WebQ item,
+102810,Low fat hard cheese,3,Rauber et al.: cheese is NOVA 3,,Oxford WebQ item,
+102820,Hard cheese,3,,,Oxford WebQ item,
+102830,Soft cheese,3,Cream cheeses may contain stabilisers,Yes,Oxford WebQ item,Consistent: cheese classified as NOVA 3 (cheese spreads listed separately as UPF)
+102840,Blue cheese,3,,,Oxford WebQ item,
+102850,Low fat cheese spread,4,Rauber et al.: cheese spreads are UPF,,Oxford WebQ item,
+102860,Cheese spread,4,Rauber et al.: cheese spreads are UPF,,Oxford WebQ item,
+102870,Cottage cheese,3,,,Oxford WebQ item,
+102880,Feta,3,,,Oxford WebQ item,
+102890,Mozzarella,3,,,Oxford WebQ item,
+102900,Goat's cheese,3,,,Oxford WebQ item,
+102910,Other cheese,3,,,Oxford WebQ item,
+102940,Whole egg,1,,,Oxford WebQ item,
+102950,Omelette,1,Home-made,,Oxford WebQ item,
+102960,Eggs in sandwiches,1,Mayonnaise not listed separately,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+102970,Scotch egg,4,Ready-made,,Oxford WebQ item,
+102980,Other egg,1,,,Oxford WebQ item,
+103010,Sausage,4,Rauber et al.: sausages are UPF,,Oxford WebQ item,
+103020,Beef,1,,,Oxford WebQ item,
+103030,Pork,1,,,Oxford WebQ item,
+103040,Lamb,1,,,Oxford WebQ item,
+103050,Crumbed or deep-fried poultry,4,Ready-made products such as chicken nuggets,,Oxford WebQ item,
+103060,Poultry,1,,,Oxford WebQ item,
+103070,Bacon,3,Cured meat; sometimes classified as NOVA 4 when nitrites are added,Yes,Oxford WebQ item,Consistent: salted/smoked meat classified as NOVA 3
+103080,Ham,4,Mainly packaged reconstituted ham,Yes,Oxford WebQ item,Consistent: reconstituted meat products classified as UPF
+103090,Liver,1,,,Oxford WebQ item,
+103100,Other meat,1,,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+103150,Tinned tuna,3,,,Oxford WebQ item,
+103160,Oily fish,1,Canned or smoked fish is NOVA 3,Yes,Oxford WebQ item,Consistent: fish and seafood classified as NOVA 1
+103170,Breaded fish,4,Frozen ready-made,,Oxford WebQ item,
+103180,Battered fish,4,Mainly frozen ready-made; freshly fried fish-shop products would differ,Yes,Oxford WebQ item,Consistent: reconstituted fish products classified as UPF
+103190,White fish,1,,,Oxford WebQ item,
+103200,Prawns,1,,,Oxford WebQ item,
+103210,Lobster/crab,1,,,Oxford WebQ item,
+103220,Shellfish,1,,,Oxford WebQ item,
+103230,Other fish,1,,Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+103260,Vegetarian sausages/burgers,4,,,Oxford WebQ item,
+103270,Tofu,4,,Yes,Oxford WebQ item,Changed from NOVA 3 to NOVA 4; Rauber 2021 Table S2 footnote: meat alternative classified as UPF
+103280,Quorn,4,,,Oxford WebQ item,
+103290,Other vegetarian alternative,4,,Yes,Oxford WebQ item,Consistent: meat alternative classified as UPF
+104000,Baked beans,4,"Canned, with modified starch and sugar; sometimes classified as NOVA 3",Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+104010,Pulses,1,,,Oxford WebQ item,
+104020,Fried potatoes,4,Frozen and freshly fried chips both common; less processed group chosen,Yes,Oxford WebQ item,Changed from NOVA 3 to NOVA 4; Rauber 2021 Table S2: Industrial chips (French fries) classified as UPF
+104030,Boiled/baked potatoes,1,,,Oxford WebQ item,
+104050,Mashed potato,1,Mainly home-made,Yes,Oxford WebQ item,Consistent: roots and tubers classified as NOVA 1
+104060,Mixed vegetable,1,,,Oxford WebQ item,
+104070,Vegetable pieces,1,,,Oxford WebQ item,
+104080,Coleslaw,4,"Supermarket ready-made, contains mayonnaise",Yes,Oxford WebQ item,Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+104090,Side salad,1,,,Oxford WebQ item,
+104100,Avocado,1,,,Oxford WebQ item,
+104110,Broad bean,1,,,Oxford WebQ item,
+104120,Green bean,1,,,Oxford WebQ item,
+104130,Beetroot,1,,,Oxford WebQ item,
+104140,Broccoli,1,,,Oxford WebQ item,
+104150,Butternut squash,1,,,Oxford WebQ item,
+104160,Cabbage/kale,1,,,Oxford WebQ item,
+104170,Carrot,1,,,Oxford WebQ item,
+104180,Cauliflower,1,,,Oxford WebQ item,
+104190,Celery,1,,,Oxford WebQ item,
+104200,Courgette,1,,,Oxford WebQ item,
+104210,Cucumber,1,,,Oxford WebQ item,
+104220,Garlic,1,,,Oxford WebQ item,
+104230,Leek,1,,,Oxford WebQ item,
+104240,Lettuce,1,,,Oxford WebQ item,
+104250,Mushroom,1,,,Oxford WebQ item,
+104260,Onion,1,,,Oxford WebQ item,
+104270,Parsnip,1,,,Oxford WebQ item,
+104280,Pea,1,,,Oxford WebQ item,
+104290,Sweet pepper,1,,,Oxford WebQ item,
+104300,Spinach,1,,,Oxford WebQ item,
+104310,Sprouts,1,,,Oxford WebQ item,
+104320,Sweetcorn,1,,,Oxford WebQ item,
+104330,Sweet potato,1,,,Oxford WebQ item,
+104340,Fresh tomato,1,,,Oxford WebQ item,
+104350,Tinned tomato,3,Usually tomatoes only,Yes,Oxford WebQ item,Changed from NOVA 1 to NOVA 3; Rauber 2021 Table S2: vegetables preserved in brine classified as NOVA 3
+104360,Turnip/swede,1,,,Oxford WebQ item,
+104370,Watercress,1,,,Oxford WebQ item,
+104380,Other vegetables,1,,,Oxford WebQ item,
+104410,Stewed fruit,1,Home-made; NOVA 3 when sugar is added,Yes,Oxford WebQ item,Consistent: fruit classified as NOVA 1
+104420,Prune,1,,,Oxford WebQ item,
+104430,Dried fruit,1,,,Oxford WebQ item,
+104440,Mixed fruit,1,Canned fruit in syrup is NOVA 3,Yes,Oxford WebQ item,Consistent: fruit classified as NOVA 1
+104450,Apple,1,,,Oxford WebQ item,
+104460,Banana,1,,,Oxford WebQ item,
+104470,Berry,1,,,Oxford WebQ item,
+104480,Cherry,1,,,Oxford WebQ item,
+104490,Grapefruit,1,,,Oxford WebQ item,
+104500,Grape,1,,,Oxford WebQ item,
+104510,Mango,1,,,Oxford WebQ item,
+104520,Melon,1,,,Oxford WebQ item,
+104530,Orange,1,,,Oxford WebQ item,
+104540,Satsuma,1,,,Oxford WebQ item,
+104550,Peach/nectarine,1,,,Oxford WebQ item,
+104560,Pear,1,,,Oxford WebQ item,
+104570,Pineapple,1,,,Oxford WebQ item,
+104580,Plum,1,,,Oxford WebQ item,
+104590,Other fruit,1,,,Oxford WebQ item,
+26062,"Animal fat spread, lower fat",4,Blended spread of butter and vegetable oil,Yes,UKB food group (g per day),Consistent: margarine and other spreads classified as UPF
+26063,"Animal fat spread, normal",2,Butter = processed culinary ingredient,,UKB food group (g per day),
+26064,Added sugars and preserves,2,"Mixture of sugar, honey and jam",Yes,UKB food group (g per day),Consistent: table sugar classified as NOVA 2
+26106,Nut-based spreads,4,Peanut butter; NOVA 4 when oil or sugar is added,Yes,UKB food group (g per day),Changed from NOVA 3 to NOVA 4; Rauber 2021 Table S2 footnote: chocolate/nut spread classified as UPF
+26110,Olive oil,2,,,UKB food group (g per day),
+26111,"Plant-based spread, lower fat",4,Rauber et al.: spreads are UPF,,UKB food group (g per day),
+26112,"Plant-based spread, normal",4,Rauber et al.: spreads are UPF,,UKB food group (g per day),
+26124,Rice/oat milk,4,,,UKB food group (g per day),
+26129,"Sauces and condiments, high fat",4,,,UKB food group (g per day),
+26130,"Sauces and condiments, low fat",4,,,UKB food group (g per day),
+26136,Soy milk,4,,Yes,UKB food group (g per day),Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+26144,Vegetable dips,4,Supermarket ready-made,Yes,UKB food group (g per day),Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
+26154,Cream,1,,Yes,UKB food group (g per day),Not specified by Rauber et al. 2021; original classification kept (covered by the extreme-scenario sensitivity analyses)
