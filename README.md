@@ -2,7 +2,7 @@
 
 Analysis code for the manuscript:
 
-> **Plasma proteomic signatures of diet quality and risk of gallstone disease, inflammatory bowel disease and acute pancreatitis: a prospective cohort study.** Boming Xu, Xiaobo Liu, Yubin Wang, Yingxuan Huang, Chanchan Lin, Yingyi Li, Yisen Huang, Xiaoqiang Liu. Submitted to *Food & Function*.
+> **Plasma proteomic signatures of diet quality and risk of gallstone disease, inflammatory bowel disease and acute pancreatitis: a prospective cohort study.** Apei Zhou, Xiaobo Liu, Yubin Wang, Yingxuan Huang, Chanchan Lin, Yingyi Li, Yisen Huang, Xiaoqiang Liu. Submitted to *Food & Function*.
 
 The study relates four dimensions of diet quality, assessed with Oxford WebQ 24-h dietary recalls, to 2,919 Olink plasma proteins. The four dimensions are ultra-processed food (UPF, classified item by item with NOVA), the healthful and unhealthful plant-based diet indices (hPDI, uPDI) and energy-adjusted dietary fibre. The code:
 
